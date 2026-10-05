@@ -35,5 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0856-score-of-parentheses) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RamEllaboina/leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
