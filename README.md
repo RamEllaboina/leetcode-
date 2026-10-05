@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/RamEllaboina/leetcode-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/RamEllaboina/leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RamEllaboina/leetcode-/tree/master/2545-sort-the-students-by-their-kth-score) |
+## String
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/RamEllaboina/leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
