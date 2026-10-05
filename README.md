@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RamEllaboina/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RamEllaboina/leetcode-/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1672-richest-customer-wealth](https://github.com/RamEllaboina/leetcode-/tree/master/1672-richest-customer-wealth) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RamEllaboina/leetcode-/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/RamEllaboina/leetcode-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Greedy
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RamEllaboina/leetcode-/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1672-richest-customer-wealth](https://github.com/RamEllaboina/leetcode-/tree/master/1672-richest-customer-wealth) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RamEllaboina/leetcode-/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Hash Table
 |  |
