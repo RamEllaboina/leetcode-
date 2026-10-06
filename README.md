@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/RamEllaboina/leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/RamEllaboina/leetcode-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RamEllaboina/leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/RamEllaboina/leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0856-score-of-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RamEllaboina/leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RamEllaboina/leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RamEllaboina/leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/RamEllaboina/leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/RamEllaboina/leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
