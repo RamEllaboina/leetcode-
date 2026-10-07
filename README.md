@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RamEllaboina/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/RamEllaboina/leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/RamEllaboina/leetcode-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RamEllaboina/leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RamEllaboina/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RamEllaboina/leetcode-/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RamEllaboina/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/RamEllaboina/leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0856-score-of-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RamEllaboina/leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -59,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/RamEllaboina/leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RamEllaboina/leetcode-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RamEllaboina/leetcode-/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RamEllaboina/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
