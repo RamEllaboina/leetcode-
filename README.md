@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/RamEllaboina/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/RamEllaboina/leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0856-score-of-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0856-score-of-parentheses) |
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RamEllaboina/leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/RamEllaboina/leetcode-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RamEllaboina/leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
